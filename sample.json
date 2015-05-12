@@ -1,0 +1,15 @@
+{
+  "uuid" : "path/to/example.tif",
+  "projection" : "PROJCS["NAD83 / Massachusetts Mainland", ...",
+  "bbox" : [-180,-90,180,90],
+  "footprint" : "POLYGON((-180 -90, -180 90, 180 90, 180 -90, -180 -90))",
+  "gsd" : 0.35,
+  "file_size" : 1024,
+  "acquisition_start" : "2015-05-03T13:00:00.000",
+  "acquisition_end" : "2015-05-04T13:00:00.000",
+  "title" : "An scene from some satellite",
+  "platform" : "satellite",
+  "provider" : "Digital Globe",
+  "contact" : "someone@nasa.gov",
+  "properties" : {}
+}
