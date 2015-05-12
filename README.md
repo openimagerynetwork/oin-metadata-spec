@@ -1,10 +1,10 @@
 # OIN Metadata Specification
 
-Any S3 buckets listed in the [Register](https://github.com/openimagerynetwork/register) will need to follow a specification to enable valid indexing within a catalog instance. This repository contains the metadata specification. 
+Any S3 buckets listed in the [Register](https://github.com/openimagerynetwork/register) will need to follow a specification to enable valid indexing within a catalog instance. A metadata file is required for each image file in the bucket. An image file is an RGB GeoTIFF.This repository contains the metadata specification. 
 
 ## Sample file
 
-See [sample.json]()
+See [sample.json](sample.json)
 
 ## Specification Description 
 
