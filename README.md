@@ -1,5 +1,7 @@
 # OIN Metadata Specification
 
+[![Join the chat at https://gitter.im/openimagerynetwork/metadata-spec](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/openimagerynetwork/metadata-spec?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Any S3 buckets listed in the [Register](https://github.com/openimagerynetwork/register) will need to follow a specification to enable valid indexing within a catalog instance. A metadata file is required for each image file in the bucket. An image file is an RGB GeoTIFF.This repository contains the metadata specification. 
 
 ## Sample file
