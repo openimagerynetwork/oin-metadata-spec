@@ -21,7 +21,7 @@ See [sample.json](sample.json)
 | acquisition_start | string | Acquisition Date Start  | First date of acquisition in UTC (Combined date and time representation)                    | 
 | acquisition_end   | string | Acquisition Date End    | Last date of acquisition in UTC (Combined date and time representation) (optional)          | 
 | title             | string | Title                   | Human friendly title of the image                                                           | 
-| platform          | string | Type of imagery         | List of possible platform sources limited to satellite, aircraft, UAV, balloon, kite        | 
+| platform          | string | Type of imagery         | List of possible platform sources limited to satellite, aircraft, UAV, balloon, kite, helikite, pole, and rover       | 
 | provider          | string | Imagery Provider        | Provider/owner of the OIN bucket                                                            | 
 | contact           | string | Contact                 | Name and email address of the data provider                                                 | 
 | properties        | object | Properties              | Additional properties about the image (optional)                                            | 
