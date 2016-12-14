@@ -1,6 +1,6 @@
 {
   "uuid" : "path/to/example.tif",
-  "projection" : "PROJCS["NAD83 / Massachusetts Mainland", ...",
+  "projection" : "PROJCS[\"NAD83 / Massachusetts Mainland\", ...",
   "bbox" : [-180,-90,180,90],
   "footprint" : "POLYGON((-180 -90, -180 90, 180 90, 180 -90, -180 -90))",
   "gsd" : 0.35,
