@@ -16,7 +16,7 @@ See [sample.json](sample.json)
 | projection        | string | Projection              | CRS of the datasource in full WKT format                                                    | 
 | bbox              | array  | Bounding Box            | Pair of min and max coordinates in CRS units, (min_x, min_y, max_x, max_y)                  | 
 | footprint         | string | Datasource footprint    | WKT format, describing the actual footprint of the imagery                                  | 
-| gsd               | number | Ground Spatial Distance | Average ground spatial distance (resolution) of the datasource imagery, expressed in meters | 
+| gsd               | number | Ground Sample Distance | Average ground sample distance (resolution) of the datasource imagery, expressed in meters | 
 | file_size         | number | File Size               | File size on disk in bytes                                                                  | 
 | acquisition_start | string | Acquisition Date Start  | First date of acquisition in UTC (Combined date and time representation)                    | 
 | acquisition_end   | string | Acquisition Date End    | Last date of acquisition in UTC (Combined date and time representation) (optional)          | 
